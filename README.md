@@ -28,7 +28,7 @@
 
 ###
 
-<h4 align="left">Frontend</h4>
+<h4 align="center">Frontend</h4>
 
 ###
 
@@ -44,7 +44,7 @@
 
 ###
 
-<h4 align="left">Backend</h4>
+<h4 align="center">Backend</h4>
 
 ###
 
@@ -75,11 +75,12 @@
 ###
 
 <div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="40" alt="linkedin logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/facebook/facebook-original.svg" height="40" alt="facebook logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=twitter" height="40" alt="twitter logo"  />
+  <a href="https://www.linkedin.com/in/sirazul-islam-1a4893318/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+  </a>
+  <a href="https://www.facebook.com/profile.php?id=100069182026840" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="52" height="40" alt="facebook logo"  />
+  </a>
 </div>
 
 ###
