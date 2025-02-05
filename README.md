@@ -1,42 +1,85 @@
-# Hi there, I'm [Your Name] 👋
+<h1 align="left">Hi there, I'm Sirazul Islam 👋</h1>
 
-![Banner Image](your-banner-image-url)
+###
 
-## 👨‍💻 About Me
+<div align="center">
+  <img height="200" src="https://i.ibb.co.com/60c9G5JV/Blue-White-Modern-Online-Business-Webinar-Banner-Landscape.png"  />
+</div>
 
-I'm a **[Your Job Title]** with a passion for building impactful and user-friendly applications. I love exploring new technologies and continuously improving my skills.
+###
 
-- 🔭 Currently working on **[Your Project/Technology]**
-- 🌱 Learning **[New Technology or Skill]**
-- 💬 Ask me about **[Your Expertise]**
-- 📫 How to reach me: **[Your Email]**
+<p align="left">My Name is Sirazul Islam .<br> I am a friendly and approachable individual who loves to communicate and collaborate with others. I believe in continuous learning and enjoy discussing new ideas, sharing knowledge, and working in a positive and supportive environment. Always open to meaningful conversations and constructive feedback!</p>
 
-## 🚀 Skills
+###
 
-### Frontend
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+<h2 align="center">About me</h2>
 
-### Backend
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+###
 
-### Tools & Platforms
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+<p align="left">I'm a Frontend developer with a passion for building impactful and user-friendly applications. I love exploring new technologies and continuously improving my skills.</p>
 
-## 📊 GitHub Stats
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=your-github-username&theme=dark)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=dark)
+###
 
-## 📌 Pinned Repositories
-[![Repo Name](https://github-readme-stats.vercel.app/api/pin/?username=your-github-username&repo=repo-name&theme=dark)](https://github.com/your-github-username/repo-name)
+<p align="left">✨ Creating bugs since  2024<br>📚 I'm currently Work Parcel management Project<br>📫 How to reach me: sirazulislam3734@gmail.com<br>🎲 Fun fact: I prefer playing video games.</p>
 
-## 🔗 Connect with Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-profile)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/your-profile)
+###
 
----
+<h1 align="center">🚀 Skills</h1>
 
-📌 **Feel free to explore my repositories and connect with me!** 🚀
+###
+
+<h4 align="left">Frontend</h4>
+
+###
+
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
+</div>
+
+###
+
+<h4 align="left">Backend</h4>
+
+###
+
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/mongodb/47A248" height="40" alt="mongodb logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=express" height="40" alt="express logo"  />
+</div>
+
+###
+
+<h1 align="center">📊 GitHub Stats</h1>
+
+###
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=sirazulislam3734&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sirazulislam3734&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sirazulislam3734&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph graph"  />
+</div>
+
+###
+
+<h1 align="center">🔗 Connect with Me</h1>
+
+###
+
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="40" alt="linkedin logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/facebook/facebook-original.svg" height="40" alt="facebook logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=twitter" height="40" alt="twitter logo"  />
+</div>
+
+###
